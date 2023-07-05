@@ -1,7 +1,7 @@
 # Addendum
-SCP themed module for [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/).
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+SCP themed module for [Liminal Horror](https://goblinarchives.github.io/LiminalHorror/).
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 

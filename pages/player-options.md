@@ -38,7 +38,12 @@ Background (d20)
 
 ### Civilian Starting Gear
 
-Default Bundle
+All Civilians start with:
+
+* Phone (roll 1d6): 1-3 is a flip phone; 4-6 is a smart phone
+* Starting Cash ($3d10 x 3d10 )
+* Notebook and pen
+* Normal clothes, a civilian top and bottom
 
 Weapons (d20)
 | Roll | Background |
@@ -112,7 +117,13 @@ Background (d20)
 
 ### Cultist Starting Gear
 
-Default Bundle
+All Cultist start with:
+
+* Phone (roll 1d6): 1 no phone; 2-3 is a flip phone; 4-6 is a smart phone
+* Starting Cash ($3d10 x 3d10 )
+* Notebook and pen
+* Normal clothes, a civilian top and bottom
+* Cultists may also take a set of cultist dress/robes either as a top and bottom, or as a *bulky* coverall.
 
 Weapons (d20)
 | Roll | Weapon |
@@ -149,7 +160,9 @@ Background (d20)
 
 ### D-Class Starting Gear
 
-Default Bundle
+* Phone (roll 1d6): 1-3 is a Foundation walkie talkie; 4-6 is a Foundation smart device
+* Notebook and pen
+* D-Class orange jumpsuit, a *bulky* coverall.
 
 Weapons (d20)
 | Roll | Weapon |
@@ -160,9 +173,7 @@ Weapons (d20)
 | 20 | Anomaly |
 
 Investigative Gear (d20)
-| Roll | Background |
-|-|-|
-| | |
+Roll from [Civilian Investigative Gear](#civilian-starting-gear)
 
 Memento
 D-Class personnel are not given any mementos.
@@ -184,16 +195,24 @@ General staff assigned to work at a Foundation facility (non-D-Class).
 Assignment (d20)
 | Roll | Assignment | Extra Starting Items |
 |-|-|-|
-| | Maintenance | Basic Toolkit |
-| | Researcher | Report about an anomaly |
-| | Containment Specialist | Anti-memetic Wristband (+1 Stability) |
-| | Security Officer | Facility map or Book of passwords |
-| | Tactical Response Officer | Body Armor |
+| 1-3 | Maintenance | Basic Toolkit |
+| 5-12 | Researcher | Report about an anomaly |
+| 13-15 | Containment Specialist | Anti-memetic Wristband (+1 Stability) |
+| 16-18 | Security Officer | Facility map or Book of passwords |
+| 19-20 | Tactical Response Officer | Body Armor |
 
 Background (d20)
 Roll from [Civilian Background](#civilian-background)
 
 ### Site Staff Starting Gear
+
+All Site Staff start with:
+
+* Phone (roll 1d6): 1-2 is a flip phone; 3-4 is a smart phone; 5-6 is a Foundation smart device
+* Starting Cash ($3d10 x 3d10 )
+* Notebook and pen
+* Keycard with Level 1 access
+* Foundation clothes, a assignment appropriate top and bottom
 
 Weapons (d20)
 | Roll | Maintenance | Researcher | Containment Specialist | Security Officer | Tactical Response Officer |
@@ -231,7 +250,13 @@ Roll from [Civilian Background](#civilian-background)
 
 ### Field Personnel Starting Gear
 
-Default Bundle
+All Site Staff start with:
+
+* Phone (roll 1d6): 1-2 is a flip phone; 3-4 is a smart phone; 5-6 is a Foundation smart device
+* Starting Cash ($3d10 x 3d10 )
+* Notebook and pen
+* Keycard with Level 1 access
+* Foundation clothes, a assignment appropriate top and bottom
 
 Weapons (d20)
 | Roll | Field Agent | Researcher | Mobile Task Force Operative |

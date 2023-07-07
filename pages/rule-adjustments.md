@@ -29,4 +29,8 @@ If multiple attackers target the same entity, roll all n damage dice and keep th
 
 ## Anomalies and Magic
 
-This module uses the [magic mechanics](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/) from Liminal Horror for anomalies. If a player rolls a 20 for their weapon during character creation they gain access to an anomaly. Players should discuss the function and usability of the anomaly with the Facilitator. Some anomalies may be mundane (safe) and can be used many times a day without negative effects. Others may require CTRL saves and could cause deprivation or fatigue.
+This module uses the [magic mechanics](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/) from Liminal Horror for anomalies. If a player rolls a 20 for their weapon during character creation they gain access to an anomaly. Players should discuss the function and usability of the anomaly with the Facilitator. Some anomalies may be mundane (safe) and can be used many times a day without negative effects. Others may require CTRL saves and could cause deprivation or fatigue. Consider using the same mechanics, one use per spell per day, but make creative reasons for why the anomaly has limited uses.
+
+## Extra Clothes
+
+Players may have multiple sets of clothes. The player has an inventory spot for the current clothing top and bottom. Extra clothes may be carried at one inventory spot per top and one per bottom. A full body suit, D-class jumpsuit, count as a top and bottom they are *bulky* when not worn.

@@ -31,6 +31,10 @@ If multiple attackers target the same entity, roll all n damage dice and keep th
 
 This module uses the [magic mechanics](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/) from Liminal Horror for anomalies. If a player rolls a 20 for their weapon during character creation they gain access to an anomaly. Players should discuss the function and usability of the anomaly with the Facilitator. Some anomalies may be mundane (safe) and can be used many times a day without negative effects. Others may require CTRL saves and could cause deprivation or fatigue. Consider using the same mechanics, one use per spell per day, but make creative reasons for why the anomaly has limited uses.
 
-## Extra Clothes
+## Inventory and Extra Clothes
 
-Players may have multiple sets of clothes. The player has an inventory spot for the current clothing top and bottom. Extra clothes may be carried at one inventory spot per top and one per bottom. A full body suit, D-class jumpsuit, count as a top and bottom they are *bulky* when not worn.
+Players may have multiple sets of clothes. The player have 12 inventory slots and should mark clothing and armor they are currently wearing as *active*. Extra clothes may be carried at one inventory spot per top and one per bottom. A full body suit, D-class jumpsuit, count as a top and bottom they are *bulky* when not worn.
+
+## Drugs and Medicine
+
+These rules are a clarification for the wording on the items added, Facilitators should decide the interpretations of these terms with players before play. For drugs and medicines which have *immediate* effects, these apply during a round of combat. A player who has taken Critical Damage and then is given Stims will be conscious the next turn. Emergency Medical and Surgery Kits *stabilize* players from Critical Damage. These stop the player from dying and are meant for use after combat. Time needed to treat and recover STR and DEX is left to the Facilitator. The recommendation is that medical kits take minutes/hours to apply. This combat system and items are scaled up from Liminal Horror for more militaristic equipment, Facilitators and players should understand that players have low health, can die from a single attack, and little healing can be done in combat.

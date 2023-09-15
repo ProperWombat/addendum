@@ -78,8 +78,6 @@ Gear normally available to civilians.
 | Spray paint | $15 |
 | Tarp | $25 |
 | Zip Ties | $25 |
-|  |  |  |  |
-|  |  |  |  |
 
 ## Cultist
 
